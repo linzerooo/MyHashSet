@@ -1,0 +1,15 @@
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\bin\Debug\net6.0\MyHashSetApp.exe
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\bin\Debug\net6.0\MyHashSetApp.deps.json
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\bin\Debug\net6.0\MyHashSetApp.runtimeconfig.json
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\bin\Debug\net6.0\MyHashSetApp.dll
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\bin\Debug\net6.0\MyHashSetApp.pdb
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.csproj.AssemblyReference.cache
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.AssemblyInfoInputs.cache
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.AssemblyInfo.cs
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.csproj.CoreCompileInputs.cache
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.dll
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\refint\MyHashSetApp.dll
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.pdb
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\MyHashSetApp.genruntimeconfig.cache
+C:\Users\79991\AppData\Local\Temp\Temp1_MyHashSetApp.zip\MyHashSetApp\MyHashSetApp\obj\Debug\net6.0\ref\MyHashSetApp.dll
